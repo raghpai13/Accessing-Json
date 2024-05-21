@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "label": "First Name",
+    "type": "text",
+    "placeholder": "Enter your first name",
+    "required": true
+  },
+  {
+    "id": 2,
+    "label": "Last Name",
+    "type": "text",
+    "placeholder": "Enter your last name",
+    "required": true
+  },
+  {
+    "id": 3,
+    "label": "Email",
+    "type": "email",
+    "placeholder": "Enter your email address",
+    "required": true
+  },
+  {
+    "id": 4,
+    "label": "Password",
+    "type": "password",
+    "placeholder": "Enter your password",
+    "required": true
+  }
+]
